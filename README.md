@@ -1,4 +1,3 @@
 - 👋 Hi! I’m Micaela Vera. 
 - 🏫 I'm a Computer Science student at UNGS.
 - 🌱 I’m currently learning ReactJS.
-- What am I doing? Now, I'm migrating my [projects](https://gitlab.com/micaelavera) from Gitlab to here.
