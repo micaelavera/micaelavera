@@ -1,3 +1,4 @@
 - 👋 Hi! I’m Micaela Vera. 
 - 🏫 I'm a Computer Science student at UNGS.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS and Django.
+- :computer: My secondary account in GitLab: https://gitlab.com/micaelavera
